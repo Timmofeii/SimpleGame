@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13e225a6-1d19-4a9b-8745-709812f3ac23" name="Changes" comment=" add project files and gitignore">
-      <changelist_data name="timoshaa96@gmail.com" email="" automatic="false" />
+      <changelist_data name="tima" email="" automatic="false" />
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/SimpleGame.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
@@ -41,8 +41,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="timoshaa96@gmail.com" />
         <option value="tima" />
+        <option value="timoshaa96@gmail.com" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
